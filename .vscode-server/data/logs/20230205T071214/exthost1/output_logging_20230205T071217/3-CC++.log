@@ -4,3 +4,29 @@ Failed to spawn IntelliSense process: -2147023728
 Failed to spawn IntelliSense process: -2147023728
 Failed to spawn IntelliSense process: -2147023728
 Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Formatting failed:
+/home/alejo/.vscode-server/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin/../LLVM/bin/clang-format '-style={ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Allman, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false }' -fallback-style=LLVM -sort-includes=0 --Wno-error=unknown -assume-filename=/home/alejo/volumenCono.c
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Formatting failed:
+/home/alejo/.vscode-server/extensions/ms-vscode.cpptools-1.13.9-linux-x64/bin/../LLVM/bin/clang-format '-style={ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Allman, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false }' -fallback-style=LLVM -sort-includes=0 --Wno-error=unknown -assume-filename=/home/alejo/volumenCono.c
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728
+Failed to spawn IntelliSense process: -2147023728

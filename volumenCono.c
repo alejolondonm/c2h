@@ -38,3 +38,5 @@ int main()
     // int *a
     // Variable que se especializa en manejar direcciones de memoria
 }
+
+// ---------
